@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+    <string-array name="Subject">
+        <item>CS801</item>
+        <item>CS803</item>
+        <item>CS802B</item>
+        <item>CS803D</item>
+        <item>CS805D</item>
+    </string-array>
+
+    <string name="instructions">Please Scan the QR code Generated. Press the "Next" button to go to the next code</string>
+
+</resources>
